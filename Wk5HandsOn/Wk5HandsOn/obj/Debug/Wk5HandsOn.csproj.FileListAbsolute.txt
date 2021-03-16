@@ -1,0 +1,12 @@
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk5\Wk5HandsOn\Wk5HandsOn\obj\Debug\Wk5HandsOn.Form1.resources
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk5\Wk5HandsOn\Wk5HandsOn\obj\Debug\Wk5HandsOn.Properties.Resources.resources
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk5\Wk5HandsOn\Wk5HandsOn\obj\Debug\Wk5HandsOn.csproj.GenerateResource.cache
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk5\Wk5HandsOn\Wk5HandsOn\obj\Debug\Wk5HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk5\Wk5HandsOn\Wk5HandsOn\bin\Debug\SkiResortDB.mdf
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk5\Wk5HandsOn\Wk5HandsOn\bin\Debug\SkiResortDB_log.ldf
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk5\Wk5HandsOn\Wk5HandsOn\bin\Debug\Wk5HandsOn.exe.config
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk5\Wk5HandsOn\Wk5HandsOn\bin\Debug\Wk5HandsOn.exe
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk5\Wk5HandsOn\Wk5HandsOn\bin\Debug\Wk5HandsOn.pdb
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk5\Wk5HandsOn\Wk5HandsOn\obj\Debug\Wk5HandsOn.exe
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk5\Wk5HandsOn\Wk5HandsOn\obj\Debug\Wk5HandsOn.pdb
+C:\Users\toyma\Documents\02School\05C#\Homework\Wk5\Wk5HandsOn\Wk5HandsOn\obj\Debug\Wk5HandsOn.csprojAssemblyReference.cache
